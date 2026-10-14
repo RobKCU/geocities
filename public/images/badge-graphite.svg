@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="30" viewBox="0 0 90 30">
+  <rect x="0.5" y="0.5" width="89" height="29" fill="#003" stroke="#ccc"/>
+  <polygon points="6,22 26,8 30,12 10,26" fill="#fc0" stroke="#000" stroke-width="0.6"/>
+  <polygon points="6,22 4,28 10,26" fill="#f3d9a4"/>
+  <text x="60" y="13" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" font-weight="bold" fill="#fff">POWERED BY</text>
+  <text x="60" y="24" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#0f0">#2 LEAD</text>
+</svg>

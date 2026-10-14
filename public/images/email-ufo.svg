@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="113" viewBox="0 0 150 113">
+  <!-- tractor beam -->
+  <polygon points="62,34 88,34 120,104 30,104" fill="#0f0" opacity="0.25"/>
+  <!-- saucer -->
+  <ellipse cx="75" cy="30" rx="56" ry="12" fill="#999" stroke="#000"/>
+  <ellipse cx="75" cy="22" rx="22" ry="14" fill="#6cf" stroke="#000" opacity="0.85"/>
+  <circle cx="45" cy="32" r="3" fill="#ff0"/><circle cx="75" cy="36" r="3" fill="#f0f"/><circle cx="105" cy="32" r="3" fill="#ff0"/>
+  <!-- envelope being beamed up -->
+  <g transform="rotate(-8 75 82)">
+    <rect x="44" y="66" width="62" height="38" fill="#fff" stroke="#000"/>
+    <polyline points="44,66 75,88 106,66" fill="none" stroke="#000"/>
+    <circle cx="75" cy="88" r="6" fill="#c00"/>
+  </g>
+  <text x="75" y="111" text-anchor="middle" font-family="Times New Roman,serif" font-size="10" font-weight="bold" fill="#ff0">BEAM ME A LETTER!</text>
+</svg>

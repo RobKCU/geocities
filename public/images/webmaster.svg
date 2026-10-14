@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76" height="76" viewBox="0 0 76 76">
+  <rect width="76" height="76" fill="#000"/>
+  <ellipse cx="38" cy="36" rx="22" ry="27" fill="#6c6" stroke="#030" stroke-width="2"/>
+  <ellipse cx="29" cy="32" rx="6" ry="9" fill="#000" transform="rotate(-20 29 32)"/>
+  <ellipse cx="47" cy="32" rx="6" ry="9" fill="#000" transform="rotate(20 47 32)"/>
+  <circle cx="27" cy="29" r="1.6" fill="#fff"/><circle cx="45" cy="29" r="1.6" fill="#fff"/>
+  <path d="M32 50 Q38 54 44 50" fill="none" stroke="#030" stroke-width="2"/>
+  <!-- pencil behind the ear -->
+  <g transform="rotate(-30 60 16)">
+    <rect x="44" y="13" width="26" height="6" fill="#fc0" stroke="#000" stroke-width="0.6"/>
+    <rect x="40" y="13" width="4" height="6" fill="#f69"/>
+    <polygon points="70,13 77,16 70,19" fill="#f3d9a4"/>
+  </g>
+</svg>
