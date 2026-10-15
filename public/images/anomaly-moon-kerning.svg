@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240">
+  <rect width="320" height="240" fill="#000"/>
+  <circle cx="160" cy="110" r="90" fill="#ddd"/>
+  <g fill="#aaa">
+    <circle cx="105" cy="100" r="14"/><circle cx="140" cy="100" r="14"/><circle cx="175" cy="100" r="14"/><circle cx="210" cy="100" r="14"/>
+  </g>
+  <g stroke="#f00" stroke-width="1.5">
+    <line x1="119" y1="70" x2="119" y2="130"/><line x1="126" y1="70" x2="126" y2="130"/>
+    <line x1="154" y1="70" x2="154" y2="130"/><line x1="161" y1="70" x2="161" y2="130"/>
+    <line x1="189" y1="70" x2="189" y2="130"/><line x1="196" y1="70" x2="196" y2="130"/>
+  </g>
+  <text x="160" y="160" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#c00">7 / 7 / 7</text>
+  <text x="160" y="226" text-anchor="middle" font-family="Times New Roman,serif" font-size="13" fill="#fff">Moon craters, PERFECTLY kerned. Nature can't kern.</text>
+</svg>

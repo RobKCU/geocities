@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240">
+  <rect width="320" height="240" fill="#000033"/>
+  <circle cx="40" cy="30" r="1.5" fill="#fff"/><circle cx="280" cy="60" r="1.5" fill="#fff"/><circle cx="300" cy="20" r="1" fill="#fff"/>
+  <polygon points="146,46 174,46 220,200 100,200" fill="#0f0" opacity="0.25"/>
+  <ellipse cx="160" cy="42" rx="52" ry="11" fill="#999" stroke="#000"/>
+  <ellipse cx="160" cy="34" rx="20" ry="12" fill="#6cf" opacity="0.85"/>
+  <text x="160" y="190" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="110" font-style="italic" fill="#fff">fl</text>
+  <path d="M138 108 Q160 70 182 100" fill="none" stroke="#3f3" stroke-width="5"/>
+  <text x="160" y="228" text-anchor="middle" font-family="Times New Roman,serif" font-size="13" fill="#ff0">An f and an l joined in mid-air. Under a SAUCER.</text>
+</svg>
